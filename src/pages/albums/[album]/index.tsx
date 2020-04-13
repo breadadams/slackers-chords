@@ -3,7 +3,7 @@ import { NextPage } from "next";
 import { PageHeader, TrackList } from "@/components";
 import { AlbumType } from "@/types/album";
 
-export { getStaticPaths, getStaticProps } from "./static";
+export { getStaticPaths, getStaticProps } from "@/static/album";
 
 interface Props {
   album: AlbumType;

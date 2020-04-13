@@ -6,7 +6,7 @@ import { css } from "styled-components";
 import { PageHeader } from "@/components";
 import { TrackType } from "@/types/track";
 
-export { getStaticPaths, getStaticProps } from "./static";
+export { getStaticPaths, getStaticProps } from "@/static/track";
 
 interface Props {
   meta: TrackType;
