@@ -1,0 +1,90 @@
+{
+  "title": "Hamburguru",
+  "year": "2007",
+  "setlist": [
+    {
+      "title": "New Jersey Story",
+      "chords": true,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Don't Wanna",
+      "chords": false,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Innocent Girl",
+      "chords": true,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Lis",
+      "chords": false,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "California",
+      "chords": true,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Clandestine",
+      "chords": true,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Lonely Nites",
+      "chords": true,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Oklahoma",
+      "chords": true,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Sleepy and Sad",
+      "chords": false,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Born to Suffer",
+      "chords": false,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Ballad of Hospital",
+      "chords": true,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Slugs",
+      "chords": false,
+      "media": {
+        "youtube": ""
+      }
+    }
+  ]
+}

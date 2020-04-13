@@ -1,0 +1,90 @@
+{
+  "title": "Slackness",
+  "year": "2007",
+  "setlist": [
+    {
+      "title": "Janie Jones",
+      "chords": true,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Running From Safety",
+      "chords": false,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "The Real Ska",
+      "chords": false,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Dangerous Hearts",
+      "chords": false,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "The World's About Me",
+      "chords": false,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Rastaman Rock",
+      "chords": true,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "The Promise",
+      "chords": false,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Home",
+      "chords": false,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "One Everything",
+      "chords": false,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Rastaman Reggae",
+      "chords": false,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Mountain of Sorrows",
+      "chords": false,
+      "media": {
+        "youtube": ""
+      }
+    },
+    {
+      "title": "Why Go To War",
+      "chords": false,
+      "media": {
+        "youtube": ""
+      }
+    }
+  ]
+}
